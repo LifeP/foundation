@@ -15,7 +15,7 @@
 
 * Parent Procedure : If a Procedure is child to a Parent Procedure, then this field will contain the name of the Parent Procedure.
 
-* Is Group : If a Procedure has chile Procedures, selecting Is Group, groups all the Procedures into the Parent Procedure in the TreeView.
+* Is Group : If a Procedure has child Procedures, selecting Is Group, groups all the Procedures into the Parent Procedure in the TreeView.
 
 * Procedure consisting of Steps :
 
@@ -27,7 +27,7 @@
 
 * Procedure consisting of Nested Procedure :
  <img class="screenshot" alt="Quality mangement" src="{{docs_base_url}}/assets/img/quality-management/Enterprise_Sales.gif">
-  - If a Procedure multiple procedures, select Procedure from Dropdown.
+  - If a Procedure consists of multiple procedures, select Procedure from Dropdown.
   - Select the Child Procedure.(When this field is set, the Parent Procedure field of the Child Procedures will contain the name of the Parent Procedure)
   - Select the Individual responsible for carrying out the task.
 
